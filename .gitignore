@@ -20,6 +20,6 @@ Thumbs.db
 # visuals/*.png
 # reports/*.pdf
 
-# Datasets (Uncomment if you want to keep datasets local only)
-# data/raw/*.csv
-# data/processed/*.csv
+ Datasets (Uncomment if you want to keep datasets local only)
+ data/raw/*.csv
+ data/processed/*.csv
