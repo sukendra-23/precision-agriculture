@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+venv/
+env/
+ENV/
+
+# Streamlit specific
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visuals and Reports (Uncomment if you don't want to push generated images)
+# visuals/*.png
+# reports/*.pdf
+
+# Datasets (Uncomment if you want to keep datasets local only)
+# data/raw/*.csv
+# data/processed/*.csv
